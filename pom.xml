@@ -81,24 +81,6 @@
             <version>8.0.0.Final</version>
         </dependency>
         <dependency>
-            <groupId>com.research.hexa.core</groupId>
-            <artifactId>research-hexa-core</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.research.agrivision.business</groupId>
-            <artifactId>agrivision-business</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.research.agrivision.business.impl</groupId>
-            <artifactId>agrivision-business-impl</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi</artifactId>
             <version>5.2.3</version>
